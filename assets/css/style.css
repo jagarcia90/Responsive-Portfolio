@@ -249,4 +249,28 @@ img {
   nav{
     padding-left: 250px;
   }
+  img{
+    width: 0px;
+    length: 0px;
+  }
+  .Photo{
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    
+  }
+  #container{
+    width: 550px;
+    padding: 0;
+    margin: 30;
+    content: 0px;
+    border: solid;
+  }
+  #contact-form{
+    width: 80%;
+  }
+  p{
+    width: 85%;
+  }
+
 }
